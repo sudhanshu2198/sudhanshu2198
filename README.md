@@ -3,7 +3,7 @@
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/sudhanshu2198?tab=repositories)
+[![Blog](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://github.com/sudhanshu2198?tab=repositories](https://medium.com/@sudhanshurastogi))
 [![Kaggle](https://img.shields.io/badge/Kaggle-00?style=for-the-badge&logoColor=white)](https://www.kaggle.com/sudhanshu2198)
 
 
