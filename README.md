@@ -3,7 +3,7 @@
 
 
 ## 🔗 Links
-[![Blog](https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)]((https://medium.com/@sudhanshurastogi)](https://medium.com/@sudhanshurastogi))
+[![Blog](https://img.shields.io/badge/Blog-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://medium.com/@sudhanshurastogi)
 [![Kaggle](https://img.shields.io/badge/Kaggle-00?style=for-the-badge&logoColor=white)](https://www.kaggle.com/sudhanshu2198)
 
 
