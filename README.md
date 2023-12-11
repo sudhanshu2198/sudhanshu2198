@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Alzheimer Detection](https://github.com/sudhanshu2198/Alzheimer-Detection)
 
-- 🌱 I’m currently learning **Huggingfaec Transformer, ONNX Runtime, OpenVivo, TorchServe**
+- 🌱 I’m currently learning **Huggingface Transformer, ONNX Runtime, OpenVivo, TorchServe**
 
 - 👯 I’m looking to collaborate on Computer Vision Applications.
 
