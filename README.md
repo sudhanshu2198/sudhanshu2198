@@ -3,13 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu2198&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu2198" /> </p>
 
-- 🔭 I’m currently working on [Alzheimer Detection](https://github.com/sudhanshu2198/Alzheimer-Detection)
-
-- 🌱 I’m currently learning **Huggingface Transformer, ONNX Runtime, OpenVivo, TorchServe**
-
 - 👯 I’m looking to collaborate on Computer Vision Applications.
 
-- 🤝 I’m looking for help with **Edge Deployment**
+- 🌱 I’m currently learning **Huggingface Transformer, ONNX Runtime, TorchServe**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
