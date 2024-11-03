@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on Computer Vision Applications.
 
-- 🌱 I’m currently learning **Huggingface Transformer, ONNX Runtime, TorchServe**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
 
 
