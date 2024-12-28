@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhanshu2198&label=Profile%20views&color=0e75b6&style=flat" alt="sudhanshu2198" /> </p>
 
-- 👯 I’m looking to collaborate on NLP Applications.
+- 👯 I’m looking to collaborate on NLP Applications and Computer Vision.
 
-- 🌱 I’m currently learning **Retrieval Augmented Generation**
+- 🌱 I’m currently learning **3D Computer Vision**
 
 
 
