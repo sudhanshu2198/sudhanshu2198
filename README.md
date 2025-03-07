@@ -8,6 +8,7 @@
 - 👨‍💻 **Medium Articles ( More than 4k+ reads, 9k+ views)**
   
   1.) **[YOLOv8 Object Detection on Custom Dataset](https://medium.com/@sudhanshurastogi/yolov8-object-detection-on-custom-dataset-362616ebebcc)**
+  
   2.) **[Complex SQL Query building using IPL Dataset](https://medium.com/@sudhanshurastogi/indian-premier-league-analysis-using-sql-3b8d1f61565a)**
 
 
