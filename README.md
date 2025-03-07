@@ -6,8 +6,8 @@
 - 🚀 **[Portfolio Website](https://share.streamlit.io/user/sudhanshu2198)**
 - 👁 **[Face Recognition System](https://sudhanshu2198.github.io/Face-Recognition-System/)**
 - 👨‍💻 **Medium Articles ( More than 4k+ reads, 9k+ views)**
-      - **[YOLOv8 Object Detection on Custom Dataset](https://medium.com/@sudhanshurastogi/yolov8-object-detection-on-custom-dataset-362616ebebcc)**
-      - **[Complex SQL Query building using IPL Dataset](https://medium.com/@sudhanshurastogi/indian-premier-league-analysis-using-sql-3b8d1f61565a)**
+  1.) **[YOLOv8 Object Detection on Custom Dataset](https://medium.com/@sudhanshurastogi/yolov8-object-detection-on-custom-dataset-362616ebebcc)**
+  2.) **[Complex SQL Query building using IPL Dataset](https://medium.com/@sudhanshurastogi/indian-premier-league-analysis-using-sql-3b8d1f61565a)**
 
 
 
